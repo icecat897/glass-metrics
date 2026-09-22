@@ -1,0 +1,10 @@
+.DS_Store
+*.app/
+.build/
+*.o
+*.dSYM/
+*.log
+.env
+.env.*
+.codex/
+auth.json
